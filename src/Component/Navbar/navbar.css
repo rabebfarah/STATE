@@ -1,0 +1,40 @@
+
+.nav1{
+    position: absolute;
+margin-left: 20px;
+margin-right:40px ;
+margin-top: 146px;
+margin-bottom:-40px;
+color:	rgb(246, 247, 250);
+font-weight: bold;
+font-family: Georgia, serif;
+font-size: 25px;
+opacity: 20px;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+.NAV2{
+    position: relative;
+    margin-left: 20px;
+    margin-right:40px ;
+    margin-top:0px ;
+    margin-bottom:44px;
+    color:	rgb(246, 247, 250);
+    font-weight: bold;
+    font-family: Georgia, serif;
+    font-size: 25px;
+    opacity: 20px;
+}
+.NAV4{
+    
+    position: relative;
+    margin-left: 20px;
+    margin-right:40px ;
+    margin-top:0px ;
+    margin-bottom:-40px;
+    color:	rgb(246, 247, 250);
+    font-weight: bold;
+    font-family: Georgia, serif;
+    font-size: 25px;
+    opacity: 20px;
+}
